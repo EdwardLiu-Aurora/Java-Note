@@ -110,3 +110,5 @@ getRequestDispatcher|RequestDispatcher getRequestDispatcher(java.lang.String pat
 ---|---|---
 getWriter|java.io.PrintWriter getWriter()|取得响应输出对象
 setContentType|void setContentType(java.land.String type)|设置响应内容类型
+
+刘丰璨 写于 2018.04.15 9:00 简书: https://www.jianshu.com/p/d6e8b1483083
