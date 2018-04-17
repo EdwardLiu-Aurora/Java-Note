@@ -307,3 +307,5 @@ ServletContext 接口定义了运行 Servlet 应用程序环境的一些行为�
 
 - 异步处理 AsyncContext
     - 要使用 @WebServlet 注解告诉容器此 Servlet 支持异步处理 asyncSupported=true
+
+刘丰璨 写于 2018.04.15 9:00 简书: https://www.jianshu.com/p/d6e8b1483083
